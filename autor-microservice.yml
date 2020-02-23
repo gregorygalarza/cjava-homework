@@ -16,4 +16,5 @@ eureka:
 
 # Loggin Mongo Querys
 logging:
-  level:    org.springframework.data.mongodb.core.MongoTemplate: DEBUG
+  level:
+    org.springframework.data.mongodb.core.MongoTemplate: DEBUG
