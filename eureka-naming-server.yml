@@ -8,6 +8,8 @@ spring:
   application:
     name: eureka-naming-server
 
-eureka:  client:    register-with-eureka: false
+eureka:
+  client:
+    register-with-eureka: false
     fetch-registry: false
  
