@@ -1,0 +1,13 @@
+
+# HTTP Server
+server:
+  port: 8761   # HTTP (Tomcat) port
+  
+#Spring Boot Configuration
+spring:
+  application:
+    name: eureka-naming-server
+
+eureka:  client:    register-with-eureka: false
+    fetch-registry: false
+ 
