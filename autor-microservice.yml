@@ -3,11 +3,6 @@
 server:
   port: 9301   # HTTP (Tomcat) port
 
-#Spring Boot Configuration
-spring:
-  application:
-    name: autor-microservice
-
 # Eureka Server
 eureka:
   client:
