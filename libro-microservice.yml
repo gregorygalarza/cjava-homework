@@ -1,7 +1,7 @@
 
 # HTTP Server
 server:
-  port: 9202   # HTTP (Tomcat) port
+  port: 9201   # HTTP (Tomcat) port
 
 # Spring Boot Configuration
 spring:
